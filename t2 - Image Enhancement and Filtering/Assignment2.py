@@ -1,6 +1,7 @@
 ####################################
 # SCC0251 - Digital Image Processing (2022.1)
-# Assingment 1 - Image Generation
+# Assingment 2 - Image Enhancement and Filtering
+
 
 # Maria Fernanda Lucio de Mello
 # nUSP: 11320860
